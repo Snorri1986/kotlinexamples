@@ -12,4 +12,7 @@ fun main() {
     var department:String
     department = "Software engineering" // throws an error without initialization
     print("Department $department")
+
+    var departmentWithNull:String?  // null save tik
+    print("Department $department")
 }
