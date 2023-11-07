@@ -14,5 +14,6 @@ fun main() {
     print("Department $department")
 
     var departmentWithNull:String?  // null save tik
-    print("Department $department")
+    departmentWithNull = "Software engineering"
+    print("Department $departmentWithNull")
 }
