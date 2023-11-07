@@ -1,8 +1,10 @@
 fun main() {
+    val name = "Denys"
+    val age = 37
+    val GPA = 3.9
 
-    val str:String
-    str = " Welcome to Kotlin!"
-    println(str)
-    println(str)
-    println(str)
+    println("======= User info ===========")
+    println("Name $name")
+    println("Age $age")
+    println("GPA $GPA")
 }
