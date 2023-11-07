@@ -1,3 +1,5 @@
 fun main() {
-print(10)
+    print("Welocme to Kotlin\n")
+    print("Denys")
+    print("Enjoy")
 }
