@@ -7,4 +7,9 @@ fun main() {
     println("Name $name")
     println("Age $age")
     println("GPA $GPA")
+
+
+    var department:String
+    department = "Software engineering" // throws an error without initialization
+    print("Department $department")
 }
